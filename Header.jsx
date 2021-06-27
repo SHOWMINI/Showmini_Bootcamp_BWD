@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <header>
-      <h1>MYSELF</h1>
+      <h1>WD WITH JS AND REACT.JS PROJECT</h1>
     </header>
   );
 }
